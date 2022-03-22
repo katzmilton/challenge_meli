@@ -2,4 +2,4 @@
 
 Solution for Mercado Libre's technical challenge
 
-March 22nd 2022
+March 22nd, 2022
